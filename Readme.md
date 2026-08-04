@@ -42,7 +42,7 @@ The application is designed to help students, security enthusiasts, defenders, a
 ## Main Interface
 
 <p align="center">
-<img src="assets/images/main-dashboard.png" width="100%">
+<img src="assets/main-dashboard.png" width="100%">
 </p>
 
 The application opens with a clean dashboard allowing operators to specify a private IPv4 host or subnet before launching a live reconnaissance session.
@@ -52,7 +52,7 @@ The application opens with a clean dashboard allowing operators to specify a pri
 ## Live TCP Scan
 
 <p align="center">
-<img src="assets/images/port scanning.png" width="100%">
+<img src="assets/port scanning.png" width="100%">
 </p>
 
 The scan console streams events in real time while discovering reachable hosts, identifying open TCP services, collecting banners when available, and presenting scan progress.
@@ -62,7 +62,7 @@ The scan console streams events in real time while discovering reachable hosts, 
 ## Exposure Intelligence
 
 <p align="center">
-<img src="assets/images/red-blue-phantom-intelligence.png" width="100%">
+<img src="assets/red-blue-phantom-intelligence.png" width="100%">
 </p>
 
 Once the scan completes, Wraith Spectrum automatically separates offensive findings from defensive recommendations using the **Red Phantom** and **Blue Phantom** intelligence modules.
