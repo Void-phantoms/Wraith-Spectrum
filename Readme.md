@@ -52,7 +52,7 @@ The application opens with a clean dashboard allowing operators to specify a pri
 ## Live TCP Scan
 
 <p align="center">
-<img src="assets/port scanning.png" width="100%">
+<img src="assets/live-scan.png" width="100%">
 </p>
 
 The scan console streams events in real time while discovering reachable hosts, identifying open TCP services, collecting banners when available, and presenting scan progress.
